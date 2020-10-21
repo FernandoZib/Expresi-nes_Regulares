@@ -1,0 +1,30 @@
+En el área de la programación las expresiones regulares son un método por medio del cual se pueden realizar
+búsquedas dentro de cadenas de caracteres. Sin importar la amplitud de la búsqueda requerida de un patrón
+definido de caracteres, las expresiones regulares proporcionan una solución práctica al problema. Adicionalmente,
+un uso derivado de la búsqueda de patrones es la validación de un formato específico en una cadena de caracteres
+dada, como por ejemplo fechas o identificadores.
+
+Para poder utilizar las "expresiones regulares" al programar es necesario tener acceso a un motor de búsqueda
+con la capacidad de utilizarlas. Es posible clasificar los motores disponibles en dos tipos según su uso:
+motores para el programador y motores para el usuario final.
+
+Correo:
+bryanfernando@gmail.com
+
+Código Postal:
+77300
+
+Número de teléfono:
+9841195737
+
+Nacionalidad:
+Mx (Mexicana)
+
+IP:
+255.255.255.255
+
+URL:
+http://www.algunlugar.com
+
+Hora:
+3:30
